@@ -1,0 +1,10 @@
+C:\Users\56805\OneDrive - Grundfos\C#\JLP1\JLP.BL1\bin\Debug\netcoreapp3.1\JLP.BL1.deps.json
+C:\Users\56805\OneDrive - Grundfos\C#\JLP1\JLP.BL1\bin\Debug\netcoreapp3.1\JLP.BL1.dll
+C:\Users\56805\OneDrive - Grundfos\C#\JLP1\JLP.BL1\bin\Debug\netcoreapp3.1\JLP.BL1.pdb
+C:\Users\56805\OneDrive - Grundfos\C#\JLP1\JLP.BL1\obj\Debug\netcoreapp3.1\JLP.BL1.csproj.AssemblyReference.cache
+C:\Users\56805\OneDrive - Grundfos\C#\JLP1\JLP.BL1\obj\Debug\netcoreapp3.1\JLP.BL1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56805\OneDrive - Grundfos\C#\JLP1\JLP.BL1\obj\Debug\netcoreapp3.1\JLP.BL1.AssemblyInfoInputs.cache
+C:\Users\56805\OneDrive - Grundfos\C#\JLP1\JLP.BL1\obj\Debug\netcoreapp3.1\JLP.BL1.AssemblyInfo.cs
+C:\Users\56805\OneDrive - Grundfos\C#\JLP1\JLP.BL1\obj\Debug\netcoreapp3.1\JLP.BL1.csproj.CoreCompileInputs.cache
+C:\Users\56805\OneDrive - Grundfos\C#\JLP1\JLP.BL1\obj\Debug\netcoreapp3.1\JLP.BL1.dll
+C:\Users\56805\OneDrive - Grundfos\C#\JLP1\JLP.BL1\obj\Debug\netcoreapp3.1\JLP.BL1.pdb
